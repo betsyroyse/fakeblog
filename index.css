@@ -1,0 +1,59 @@
+h1 {
+	color: grey;
+	text-align: center;	
+}
+
+.header {
+	position: fixed;
+	height: 50px;
+	top: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid grey;
+	padding: 15px;
+
+}
+
+.left {
+	background-color: pink;
+	display: inline-block;
+	width: 25%;
+	font-size: 24px;
+	height: 800px;
+
+}
+
+.right {
+	display: inline-block;
+	background-color: lightblue;
+	width: 75%;
+	font-size: 24px;
+	height: 800px;
+}
+.container {
+	font-size: 0;
+	margin-top: 80px;
+
+}
+
+.left p {
+	margin-left: 10px;
+
+}
+
+.right p {
+	margin-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
